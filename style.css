@@ -107,6 +107,7 @@ body{
     justify-content: center;
     align-items: baseline;
     gap: 50px;  
+    height: 430px;
  }
 
 
@@ -124,6 +125,14 @@ body{
     max-width: 177px;
     padding-top: 6px;
     font-weight: 550;
+}
+
+.section-two{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: black;
+   height: 500px;
 }
 
 

@@ -6,6 +6,7 @@
 
 body{
     font-family: 'Roboto', Helvetica, sans-serif;
+    height: 2000px;
 }
 
  .nav-bar{
@@ -127,15 +128,48 @@ body{
     font-weight: 550;
 }
 
+
 .section-two{
    display: flex;
    justify-content: center;
    align-items: center;
    background-color: black;
    height: 500px;
+   
 }
 
 
+.sect-cot{
+   width: 900px;
+   display: flex;
+   flex-wrap: wrap;
+   height: auto;
+}
+
+
+.header-st-two{
+   font-size: 36px;
+   font-style: italic;
+   font-weight: lighter;
+   margin-bottom: 30px; 
+}
+
+.power{
+   display: flex;
+   width: 850px;
+   justify-content: flex-end;
+   align-items: center;
+}
+
+.p-title {
+   font-weight: bolder;
+   font-size: 22px;
+}
+
+
+.section-three{
+   color: red;
+}
 
 
 
